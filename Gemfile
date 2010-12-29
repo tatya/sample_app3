@@ -33,4 +33,5 @@ gem 'sqlite3-ruby', :require => 'sqlite3'
  group :test do
    gem 'webrat'
    gem 'rspec'
+   gem 'spork'
  end
